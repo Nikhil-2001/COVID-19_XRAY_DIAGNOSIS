@@ -1,0 +1,2 @@
+Dataset from kaggle:  https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+Implementation can be done either in kaggale or Google Collab. Use TPU for faster implemenation code is provided in a sperate file "CODE" this code is to be excuted in collab.
