@@ -3,5 +3,5 @@ We have developed a model using VGG16 a pre tarined model to detect covid. We ha
 Then later we have created a python web app using flask, to have user interface where to uplaod xray of chest image to check whether they have covid or not.
 Due to large size of model we couldn't upload in github.
 Below is the paper uploaded we published in Solid State Journal were we have only shown the model results.
-The website is in work in progress.
+The website for it is created. Deployment of it in cloud is left out.
 
