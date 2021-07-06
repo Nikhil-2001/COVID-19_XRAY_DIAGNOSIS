@@ -45,7 +45,7 @@ def main():
         # smtp_server = "smtp.gmail.com"
         # sender_email = "miniproj1234@gmail.com"  # Enter your address
         # receiver_email = mail[0]  # Enter receiver address
-        # password = "Miniproj1234@"
+        # password ="*********"
         # s2=prediction
         # s="\nClass Probabilities are: \n[COVID19:"+str(output[0][0])+" Ground_Glass_Opacity:"+str(output[0][1])+" Normal:"+str(output[0][2])+" Viral_Pneumonia:"+str(output[0][3])+"]\n"
         # body = "Dear user, \n\tBased on the symptoms marked and the chest X-Ray uploaded, our Deep Learning model has predicted the following:\n "+ s+s2
